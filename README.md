@@ -1,5 +1,6 @@
 # SMS Phone Verification in Go
 
+<!-- markdownlint-disable MD013 -->
 This is a small Go app that shows how to perform SMS phone verification.
 
 Find out more on [Twilio Code Exchange][code-exchange-url].
@@ -105,11 +106,21 @@ If the project was useful and you want to say thank you and/or support its activ
 - Add a GitHub Star to the project
 - Write an interesting article about the project wherever you blog
 
+## License
+
+[MIT][mit-license-url]
+
+## Disclaimer
+
+No warranty expressed or implied. Software is as is.
+
 [code-exchange-url]: https://www.twilio.com/code-exchange/sms-phone-verification
-[go-download-url]: https://go.dev/doc/install
-[twilio-console-url]: https://console.twilio.com/
-[twilio-referral-url]: http://www.twilio.com/referral/QlBtVJ
-[twilio-verify-url]: https://www.twilio.com/docs/verify
 [github-issues-url]: https://github.com/settermjd/sms-phone-verification-go/issues
 [github-pr-url]: https://github.com/settermjd/sms-phone-verification-go/pulls
+[go-download-url]: https://go.dev/doc/install
+[mit-license-url]: http://www.opensource.org/licenses/mit-license.html
+[twilio-console-url]: https://console.twilio.com/
 [twilio-console-verify-services-url]: https://console.twilio.com/us1/develop/verify/services
+[twilio-referral-url]: https://login.twilio.com/u/signup?state=hKFo2SA5Qlp2bThzaGh4T0RnUDJMU0c4VWxhZ0lYRUZrQlMxMqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDVKUmh0dFM4ZTV0cmt2QkdKeVp6R212Z2JiMlE2U0R6o2NpZNkgTW05M1lTTDVSclpmNzdobUlKZFI3QktZYjZPOXV1cks
+[twilio-verify-url]: https://www.twilio.com/docs/verify
+<!-- markdownlint-enable -->
